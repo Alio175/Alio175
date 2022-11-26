@@ -1,22 +1,15 @@
-- 👋 Hi, I’m @Alio175
-- 👀 I’m interested in ...
+# 👋 Hi, I’m Ali Akbar Khan 
+
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
+# My Social Media Accounts 
 
 
-
-
-<p align="center">
-  
-  
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-
-
-
-</p>
+# My recent Blog post 
 
 
 
@@ -34,10 +27,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alio175&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Alio175/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Alio175&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Alio175/github-readme-stats#gh-light-mode-only)
-
-
-# 
-
 
 
 
