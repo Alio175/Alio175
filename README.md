@@ -13,7 +13,10 @@
 
 
 # My Github States 🔥
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alio175)](https://github.com/Alio175/github-readme-stats)
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alio175&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Alio175/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Alio175&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Alio175/github-readme-stats#gh-light-mode-only)
 
 
 
