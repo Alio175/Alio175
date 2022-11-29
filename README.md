@@ -1,18 +1,29 @@
 # 👋 Hi, I’m Ali Akbar Khan 
 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Computer Programing(C++), Web Development, Blogging and IOT. 
+- 🌱 I’m currently learning Object Oriented Programming (OOP C++).
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at aliakbarkhan@makethehack.com
 
 
-# My Social Media Accounts 
+## My Social Media Accounts 
+[Visit Website🌐 ](https://makethehack.com/)<br>
+[Facebook Page👆 ](https://www.facebook.com/LinuxWindowHub)<br>
+[LinkedIn🔗](www.linkedin.com/in/ali-akbar-khan-693776163)<br>
+[Quora Space🙋‍♂️ ](https://windowsandlinuxhub.quora.com/)
 
 
-# My recent Blog post 
 
+## My recent Blog post 
 
+➡️[Remote machines-Windows setup Tutorial](https://makethehack.com/archives/7721)<br>
+➡️[Scope Rules in C++](https://makethehack.com/archives/3760)<br>
+➡️[C++ code to Implement 8 x 1 Digital Multiplexer (MUX)](https://makethehack.com/archives/1156)<br>
 
+<br><br>
+Follow the link to find all latest Blog → (https://makethehack.com/blog-archives)
+
+<br>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -22,7 +33,7 @@
 </p>
 
 
-# My Github States 🔥
+# My Github Stats 🔥
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alio175&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Alio175/github-readme-stats#gh-dark-mode-only)
